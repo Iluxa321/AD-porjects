@@ -1,0 +1,43 @@
+Change Component Footprint: Designator=T1 Old Footprint=PCBComponent_1 New Footprint=Trans1
+Add Component: Footprint Not Found RES_0.25W
+Add Component: Footprint Not Found RES_0.25W
+Add Component: Footprint Not Found RES_0.25W
+Add Component: Footprint Not Found RES_0.25W
+Add Component: Footprint Not Found RES_0.25W
+Add Component: Footprint Not Found RES_0.25W
+Add Component: Footprint Not Found RES_0.25W
+Added Component: Designator=U1(DIP8)
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Added Pin To Net: NetName=NetC1_2 Pin=T1-1
+Added Pin To Net: NetName=NetR5_2 Pin=T1-2
+Added Pin To Net: NetName=NetD1_K Pin=T1-3
+Added Pin To Net: NetName=NetJ2_2 Pin=T1-4
+Added Pin To Net: NetName=NetD4_K Pin=T1-5
+Added Pin To Net: NetName=NetJ2_3 Pin=T1-6
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-4
+Added Pin To Net: NetName=NetR5_1 Pin=U1-5
+Added Pin To Net: NetName=NetC2_2 Pin=U1-6
+Added Pin To Net: NetName=NetC1_1 Pin=U1-7
+Add Class Member: Failed to add class member : Component R1 RES
+Add Class Member: Failed to add class member : Component R2 RES
+Add Class Member: Failed to add class member : Component R3 RES
+Add Class Member: Failed to add class member : Component R4 RES
+Add Class Member: Failed to add class member : Component R5 RES
+Add Class Member: Failed to add class member : Component R6 RES
+Add Class Member: Failed to add class member : Component R7 RES
+Added Member To Class: ClassName=Sheet1 Member=Component U1 IR4427PBF

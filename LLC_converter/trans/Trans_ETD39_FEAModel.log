@@ -1,0 +1,49 @@
++----------------------------------------------+
+|                                              |
+|  Log File for 2D FEA based Model Procedure   |
+|    Created by 2D-Modeler Release 2022 R2     |
+|           © 2022 UPM-SAS IP, Inc.            |
+|                                              |
++----------------------------------------------+
+
+---------------------------------------------------
+  Project: Trans_ETD39
+---------------------------------------------------
+
+Eddy Current FEA project creation:
+----------------------------------
+  Started on:
+    Tuesday, August 13 at 17:0:23, 2024
+  Finished on:
+    Tuesday, August 13 at 17:0:46, 2024
+
+Eddy Current FEA Nominal and Setups Simulation:
+-----------------------------------------------
+  Started on:
+    Tuesday, August 13 at 17:0:46, 2024
+  Finished on:
+    Tuesday, August 13 at 17:1:26, 2024
+
+Write FEA Fields:
+-----------------
+  Started on:
+    Tuesday, August 13 at 17:1:26, 2024
+  Finished on:
+    Tuesday, August 13 at 17:1:58, 2024
+
+FEA Resistance and Inductance Calculation:
+------------------------------------------
+  Started on:
+    Tuesday, August 13 at 17:1:58, 2024
+  Finished at:
+    Tuesday, August 13 at 17:2:38, 2024
+
+Netlist Parameters Calculation (Curve Fitting):
+-----------------------------------------------
+  For Curve Fitting Information open the
+  "Curve Fitting Report File" from PEmag
+
+
+Total Time for the 2D Model Generation (curve fitting not included)
+-------------------------------------------------------------------
+  0 hours 2 minutes 15 seconds

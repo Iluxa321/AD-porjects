@@ -1,0 +1,185 @@
+B_COMPONENT
+
+  Name Trans_ETD39
+  Number of Windings 4
+  Number of Impedances 10
+  Number of Frequency Steps 4
+  Number of Foster Network Fractions 3
+
+  B_IMPEDANCE
+    Impedance Z1_1
+    c[0] 1.290201e-02
+    c[1] 2.069360e-05
+    c[2] 1.612663e+00
+    c[3] 2.828758e+07
+    c[4] 2.632223e+01
+    c[5] 1.127439e+09
+    c[6] 3.473229e+01
+    c[7] 2.536705e+08
+    Error 2.59255
+    Error target RX
+  E_IMPEDANCE
+
+  B_IMPEDANCE
+    Impedance Z1_2
+    c[0] 8.992077e-02
+    c[1] 3.004991e-05
+    c[2] 1.435374e-02
+    c[3] 3.081366e+07
+    c[4] 1.965289e+00
+    c[5] 9.892412e+06
+    c[6] 9.898279e-02
+    c[7] 3.431527e+06
+    Error 4.93987
+    Error target RX
+  E_IMPEDANCE
+
+  B_IMPEDANCE
+    Impedance Z1_3
+    c[0] 1.062959e-01
+    c[1] 2.942165e-05
+    c[2] 4.640275e+00
+    c[3] 1.633469e+07
+    c[4] 1.819473e-01
+    c[5] 4.574218e+07
+    c[6] 8.792667e-01
+    c[7] 1.233522e+07
+    Error 1.6842
+    Error target RX
+  E_IMPEDANCE
+
+  B_IMPEDANCE
+    Impedance Z1_4
+    c[0] 1.179257e-01
+    c[1] 3.184431e-05
+    c[2] 8.111913e-02
+    c[3] 8.880343e+07
+    c[4] 1.551575e+00
+    c[5] 5.748202e+06
+    c[6] 3.458316e-02
+    c[7] 2.303650e+09
+    Error 4.5492
+    Error target RX
+  E_IMPEDANCE
+
+  B_IMPEDANCE
+    Impedance Z2_2
+    c[0] 1.547220e-03
+    c[1] 7.061977e-07
+    c[2] 6.993820e+02
+    c[3] 3.931055e+09
+    c[4] 6.160528e-01
+    c[5] 2.656733e+08
+    c[6] 8.042340e+00
+    c[7] 1.871192e+08
+    Error 0.968993
+    Error target RX
+  E_IMPEDANCE
+
+  B_IMPEDANCE
+    Impedance Z2_3
+    c[0] 3.308769e-03
+    c[1] 1.126490e-07
+    c[2] 4.620372e-02
+    c[3] 5.721139e+06
+    c[4] 1.155318e-04
+    c[5] 2.173812e+08
+    c[6] 1.803134e-01
+    c[7] 3.650078e+09
+    Error 4.12525
+    Error target RX
+  E_IMPEDANCE
+
+  B_IMPEDANCE
+    Impedance Z2_4
+    c[0] 3.911880e-03
+    c[1] 2.556865e-07
+    c[2] 2.369759e-04
+    c[3] 6.577100e+06
+    c[4] 3.889831e-05
+    c[5] 2.214329e+08
+    c[6] 1.607691e-01
+    c[7] 1.417862e+07
+    Error 4.03863
+    Error target RX
+  E_IMPEDANCE
+
+  B_IMPEDANCE
+    Impedance Z3_3
+    c[0] 1.845286e-03
+    c[1] 9.197612e-07
+    c[2] 1.734131e-01
+    c[3] 1.346243e+08
+    c[4] 3.719837e-02
+    c[5] 7.201091e+08
+    c[6] 5.048880e-01
+    c[7] 3.774593e+07
+    Error 2.4794
+    Error target RX
+  E_IMPEDANCE
+
+  B_IMPEDANCE
+    Impedance Z3_4
+    c[0] 4.035255e-03
+    c[1] 1.305346e-07
+    c[2] 1.408791e-02
+    c[3] 6.435318e+06
+    c[4] 2.277273e-03
+    c[5] 1.221844e+10
+    c[6] 8.621914e-02
+    c[7] 1.055171e+07
+    Error 2.4106
+    Error target RX
+  E_IMPEDANCE
+
+  B_IMPEDANCE
+    Impedance Z4_4
+    c[0] 2.331626e-03
+    c[1] 9.515656e-07
+    c[2] 3.679409e-02
+    c[3] 2.507032e+07
+    c[4] 3.538040e+00
+    c[5] 2.636266e+08
+    c[6] 2.293268e+00
+    c[7] 9.131983e+07
+    Error 5.66041
+    Error target RX
+  E_IMPEDANCE
+
+  B_PARAMETERS
+    Core Al 1.81815e-07
+    Core REddy 681.473
+    Initial Frequency 10000
+    Final Frequency 1e+06
+  E_PARAMETERS
+
+  B_NUMBER_TURNS
+    Winding 1 21
+    Winding 2 3
+    Winding 3 3
+    Winding 4 3
+  E_NUMBER_TURNS
+
+  B_MAGNETIZING_INDUCTANCES
+    Winding 1 101.088
+    Winding 2 2.56573
+    Winding 3 2.57042
+    Winding 4 2.62769
+  E_MAGNETIZING_INDUCTANCES
+
+  B_DC_RESISTANCES
+    Winding 1 12.6483
+    Winding 2 1.48866
+    Winding 3 1.8069
+    Winding 4 2.12514
+  E_DC_RESISTANCES
+
+  B_CONNECTIONS
+    Winding 1 0 0
+    Winding 2 0 0
+    Winding 3 0 0
+    Winding 4 0 0
+  E_CONNECTIONS
+
+E_COMPONENT
+

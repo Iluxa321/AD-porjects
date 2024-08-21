@@ -1,0 +1,23 @@
+Added Component: Designator=J3(MOLEX_22-27-2021)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "11.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "04.12.2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "KK®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\MOLEX_22-27-2021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04.12.2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "2.54mm (.100") Pitch KK® Wire-to-Board Header, Vertical, with Friction Lock, 2 Circuits, Tin (Sn) Plating"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MOLEX_22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=Vs
+Added Member To Class: ClassName=Sheet1 Member=Component J3 KK®
